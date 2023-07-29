@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Abbas Hussain</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
-- 🌱 I’m currently learning **Machine Learning, Azure**
+- 🌱 I’m currently learning **Competitive Coding, Azure**
 
 - 📫 How to reach me **mdabbashn@gmail.com**
 
